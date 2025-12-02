@@ -1,0 +1,10 @@
+{
+    "id":1,
+    "name": "White Check Shirt",
+    "fit": "Regular Fit",
+    "color": "Blue-Black",
+    "price": "1000",
+    "labels": ["new", "improved"],
+    "inStock": true
+
+}

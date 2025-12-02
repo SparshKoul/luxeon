@@ -1,0 +1,10 @@
+{
+    "id":7,
+    "name": "Deadpool-themed backpack",
+    "fit": "Regular Fit",
+    "color": "Black",
+    "price": "1000",
+    "labels": ["new", "improved"],
+    "inStock": true
+
+}

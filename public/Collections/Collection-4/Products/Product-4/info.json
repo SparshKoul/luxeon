@@ -1,0 +1,10 @@
+{
+    "id":4,
+    "name": "Double Pocket Checked Shirt",
+    "fit": "Regular Fit",
+    "color": "Blue",
+    "price": "1000",
+    "labels": ["new", "improved"],
+    "inStock": true
+
+}

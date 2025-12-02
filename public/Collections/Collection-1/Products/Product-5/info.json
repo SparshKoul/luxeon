@@ -1,0 +1,10 @@
+{
+    "id":5,
+    "name": "Lenin TrackPant",
+    "fit": "Regular Fit",
+    "color": "Beige",
+    "price": "1000",
+    "labels": ["new", "improved"],
+    "inStock": true
+
+}

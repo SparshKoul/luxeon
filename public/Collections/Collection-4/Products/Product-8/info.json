@@ -1,0 +1,10 @@
+{
+    "id":8,
+    "name": "Olive Washed Shirt",
+    "fit": "Regular Fit",
+    "color": "Olive",
+    "price": "1000",
+    "labels": ["new", "improved"],
+    "inStock": true
+
+}

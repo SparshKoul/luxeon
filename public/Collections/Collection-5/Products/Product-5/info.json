@@ -1,0 +1,10 @@
+{
+    "id":5,
+    "name": "Panther Tribal Pattern Backpack",
+    "fit": "Regular Fit",
+    "color": "Purple",
+    "price": "1000",
+    "labels": ["new", "improved"],
+    "inStock": true
+
+}

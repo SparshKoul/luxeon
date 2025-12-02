@@ -1,0 +1,10 @@
+{
+    "id":5,
+    "name": "Wine Knitted T-Shirt",
+    "fit": "Regular Fit",
+    "color": "Wine",
+    "price": "1000",
+    "labels": ["new", "improved"],
+    "inStock": true
+
+}

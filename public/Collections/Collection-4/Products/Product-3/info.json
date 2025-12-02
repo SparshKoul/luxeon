@@ -1,0 +1,10 @@
+{
+    "id":3,
+    "name": "Double Pocket Shirt",
+    "fit": "Regular Fit",
+    "color": "Off-white",
+    "price": "1000",
+    "labels": ["new", "improved"],
+    "inStock": true
+
+}

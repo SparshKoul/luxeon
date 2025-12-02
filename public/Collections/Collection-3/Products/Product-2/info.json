@@ -1,0 +1,10 @@
+{
+    "id":2,
+    "name": "Wide Leg Jeans",
+    "fit": "Baggy Fit",
+    "color": "Blue",
+    "price": "1000",
+    "labels": ["new", "improved"],
+    "inStock": true
+
+}

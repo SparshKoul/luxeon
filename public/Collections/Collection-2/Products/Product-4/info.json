@@ -1,0 +1,10 @@
+{
+    "id":4,
+    "name": "AquaEssence Perfume",
+    "fit": "Regular",
+    "color": "Blue",
+    "price": "1000",
+    "labels": ["new", "improved"],
+    "inStock": true
+
+}

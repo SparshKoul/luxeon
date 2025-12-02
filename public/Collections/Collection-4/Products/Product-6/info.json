@@ -1,0 +1,10 @@
+{
+    "id":6,
+    "name": "Off-White Zipper Shirt",
+    "fit": "Regular Fit",
+    "color": "Off-White",
+    "price": "1000",
+    "labels": ["new", "improved"],
+    "inStock": true
+
+}

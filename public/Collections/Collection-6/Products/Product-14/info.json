@@ -1,0 +1,10 @@
+{
+    "id":14,
+    "name": "Sports Bra",
+    "fit": "Regular Fit",
+    "color": "Blue",
+    "price": "1000",
+    "labels": ["new", "improved"],
+    "inStock": true
+
+}

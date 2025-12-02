@@ -1,0 +1,10 @@
+{
+    "id":8,
+    "name": "Compression",
+    "fit": "Compression Fit",
+    "color": "White",
+    "price": "1000",
+    "labels": ["new", "improved"],
+    "inStock": false
+
+}

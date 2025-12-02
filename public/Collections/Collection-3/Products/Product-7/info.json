@@ -1,0 +1,10 @@
+{
+    "id":7,
+    "name": "Heavy Gauge Printed T-shirt",
+    "fit": "Oversized Fit",
+    "color": "Blue",
+    "price": "1000",
+    "labels": ["new", "improved"],
+    "inStock": true
+
+}

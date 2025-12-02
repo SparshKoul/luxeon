@@ -1,0 +1,10 @@
+{
+    "id":16,
+    "name": "Cross-Over Sports Bra",
+    "fit": "Regular Fit",
+    "color": "Maroon",
+    "price": "1000",
+    "labels": ["new", "improved"],
+    "inStock": false
+
+}

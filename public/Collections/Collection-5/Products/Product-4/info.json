@@ -1,0 +1,10 @@
+{
+    "id":4,
+    "name": "The Souled Cap",
+    "fit": "Regular Fit",
+    "color": "Black",
+    "price": "1000",
+    "labels": ["new", "improved"],
+    "inStock": true
+
+}

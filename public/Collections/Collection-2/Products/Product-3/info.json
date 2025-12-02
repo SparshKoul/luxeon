@@ -1,0 +1,10 @@
+{
+    "id":3,
+    "name": "Hugo Boss Perfume",
+    "fit": "Regular",
+    "color": "Black",
+    "price": "1000",
+    "labels": ["new", "improved"],
+    "inStock": true
+
+}

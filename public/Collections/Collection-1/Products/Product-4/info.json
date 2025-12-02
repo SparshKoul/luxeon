@@ -1,0 +1,10 @@
+{
+    "id":4,
+    "name": "White Polo T-Shirt",
+    "fit": "Regular Fit",
+    "color": "White",
+    "price": "1000",
+    "labels": ["new", "improved"],
+    "inStock": true
+
+}

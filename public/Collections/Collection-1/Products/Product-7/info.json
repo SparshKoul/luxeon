@@ -1,0 +1,10 @@
+{
+    "id":7,
+    "name": "Cream lenin trouser",
+    "fit": "Regular Fit",
+    "color": "Cream",
+    "price": "1000",
+    "labels": ["new", "improved"],
+    "inStock": true
+
+}

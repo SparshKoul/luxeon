@@ -1,0 +1,10 @@
+{
+    "id":4,
+    "name": "PStraight Leg Pumper Pants",
+    "fit": "Oversized Fit",
+    "color": "Smokey Grey",
+    "price": "1000",
+    "labels": ["new", "improved"],
+    "inStock": false
+
+}

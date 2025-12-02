@@ -1,0 +1,10 @@
+{
+    "id":4,
+    "name": "Cargo Joggers",
+    "fit": "Loose Fit",
+    "color": "Beige",
+    "price": "1000",
+    "labels": ["new", "improved"],
+    "inStock": true
+
+}

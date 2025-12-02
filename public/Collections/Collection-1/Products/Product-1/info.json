@@ -1,0 +1,10 @@
+{
+    "id":1,
+    "name": "Slub Textured Shirt",
+    "fit": "Regular Fit",
+    "color": "Light Blue",
+    "price": "1000",
+    "labels": ["new", "improved"],
+    "inStock": true
+
+}
